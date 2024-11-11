@@ -2,7 +2,7 @@
 #include <algorithm>
 #include <sstream>
 #include <string>
-#include <nlohmann/json.hpp>
+#include "json.hpp"
 #include <fstream>
 #include <filesystem>
 #include <iomanip>
