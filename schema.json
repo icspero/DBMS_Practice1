@@ -3,6 +3,6 @@
     "tuples_limit": 50,
     "structure": {
         "table1": ["table1_pk", "name", "year", "city"],
-        "table2": ["table2_pk", "steam", "cash", "points"]
+        "table2": ["table2_pk", "profile", "cash", "points"]
     }  
 }
